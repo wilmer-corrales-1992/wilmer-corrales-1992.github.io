@@ -73,26 +73,6 @@ export const skills = {
   toolsAndServices: [],
 };
 
-// export const projects = [
-  // {
-  //   title: "Lorem Ipsum Project",
-  //   github: "https://github.com/loremipsum/project",
-  //   description: [
-  //     "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-  //     "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-  //     "Ut enim ad minim veniam, quis nostrud exercitation ullamco.",
-  //     "Duis aute irure dolor in reprehenderit in voluptate velit esse.",
-  //     "Excepteur sint occaecat cupidatat non proident.",
-  //   ],
-  // },
-// ];
+export const projects = [];
 
-// export const awards = [
-//   {
-//     name: "Lorem Ipsum Award",
-//     issuer: "Lorem Organization",
-//     date: "Jan 2020",
-//     type: "International",
-//     position: "First Place",
-//   },
-// ];
+export const awards = [];
