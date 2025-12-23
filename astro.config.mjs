@@ -6,7 +6,7 @@ import react from "@astrojs/react";
 
 // https://astro.build/config
 export default defineConfig({
-  site: "https://wilmercorrales.github.io",
+  site: "https://wilmer-corrales-1992.github.io",
   base: "/",
   output: "static", 
   
