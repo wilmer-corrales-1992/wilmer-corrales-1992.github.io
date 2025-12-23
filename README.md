@@ -165,7 +165,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## ©️ Copyright
 
-© 2025 **Rishikesh S.** All rights reserved.
+© 2025 **Rishikesh S.** — Original template  
+© 2025 **Wilmer C.** — Customization and content
 
 You’re welcome to use this template for your own portfolio — just update `data.ts` and tweak the design as needed. Please keep attribution to the original author.
 

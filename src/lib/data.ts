@@ -1,12 +1,12 @@
 export const personalInfo = {
-  name: "Lorem Ipsum",
-  location: "Dolor Sit Amet",
-  email: "lorem@ipsum.com",
-  github: "https://github.com/loremipsum",
-  linkedin: "https://linkedin.com/in/loremipsum",
+  name: "Wilmer Corrales",
+  location: "Tegucigalpa, Honduras",
+  email: "wilmercorrales92@gmail.com",
+  github: "https://github.com/wilmer-corrales-1992",
+  linkedin: "https://linkedin.com/in/wilmer-corrales",
   profilePicture: "/profile.jpeg",
   heroDescription:
-    "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "Hello! I'm Wilmer, a passionate Software Engineer who builds scalable, reliable systems with a strong focus on clean design and long-term maintainability. I have worked on production-grade platforms, solving complex problems and improving systems that are used at scale. I care about writing clear, well-structured code and delivering solutions that create real value. I enjoy collaborating with teams, learning continuously, and turning challenging ideas into practical, high-quality software. Let's build something amazing together!",
 };
 
 export const workExperience = [
