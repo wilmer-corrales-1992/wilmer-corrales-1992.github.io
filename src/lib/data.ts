@@ -16,7 +16,12 @@ export const workExperience = [
     position: "Software Engineer",
     period: "Aug 2022 - Now 2025",
     achievements: [
-      "TODO",
+      "Implementation of new features and bug fixes in the Outcomes service",
+      "Implementation of new features and bug fixes in the Assignments module",
+      "Upgrade of the Elasticsearch version in the Outcomes service",
+      "Upgrade of the inst-ui (React package) version in the Outcomes service",
+      "Infrastructure provisioning using Terraform",
+      "Participation in on-call rotations",
     ],
   },
   {
@@ -25,7 +30,9 @@ export const workExperience = [
     position: "Software Engineer",
     period: "Mar 2018 - June 2022",
     achievements: [
-      "TODO"
+      "Contribution in the development and maintenance of the evaluations system for employees",
+      "Backend and Frontend functionalities for Farmacias del Ahoorro and FarmaValue Web and Mobile applications",
+      "Development of a Web portal for integration with company websites"
     ],
   },
   {
@@ -34,7 +41,8 @@ export const workExperience = [
     position: "Software Engineer",
     period: "Sep 2017- Aug 2018",
     achievements: [
-      "TODO"
+      "Contribution in the development of the remittance system",
+      "Reports generation",
     ],
   },
   {
@@ -43,7 +51,9 @@ export const workExperience = [
     position: "Software Engineer",
     period: "Feb 2016- Aug 2017",
     achievements: [
-      "TODO"
+      "Development of a web application designed to manage the large volume of data generated in foresnsic investigations, including body recovery processes, medical examinations, and laboratory analyses.",
+      "Creation of user manuals.",
+      "User training and onboarding.",
     ],
   },
 ];
@@ -52,25 +62,25 @@ export const education = [
   {
     institution: "Universidad Tecnológica Centroamericana (UNITEC)",
     location: "Tegucigalpa, Honduras",
-    degree: "System Engineering",
-    period: "2011 - 2015",
+    degree: "Master's in IT Management",
+    period: "2025 - Present",
     achievements: [],
   },
   {
     institution: "Universidad Nacional Autónoma de Honduras (UNAH)",
     location: "Tegucigalpa, Honduras",
-    degree: "Master's in IT Management",
-    period: "2025 - Present",
+    degree: "System Engineering",
+    period: "2011 - 2015",
     achievements: [],
   },
 ];
 export const skills = {
-  programmingLanguages: [],
-  frontendDevelopment: [],
-  backendDevelopment: [],
-  databaseAndStorage: [],
-  cloudAndDevOps: [],
-  toolsAndServices: [],
+  programmingLanguages: ["Ruby", "PHP", "JavaScript", "TypeScript"],
+  frontendDevelopment: ["React", "HTML", "CSS"],
+  backendDevelopment: ["Ruby on Rails", "Symfony (PHP)"],
+  databaseAndStorage: ["PostgreSQL", "MySQL"],
+  cloudAndDevOps: ["AWS", "Docker", "Terraform"],
+  toolsAndServices: ["Git", "Jira", "Confluence", "Slack"],
 };
 
 export const projects = [];
